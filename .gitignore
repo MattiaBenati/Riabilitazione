@@ -1,0 +1,27 @@
+# Compiled Java output
+*.class
+out/
+bin/
+build/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+
+# Logs and crash reports
+*.log
+hs_err_pid*
+replay_pid*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
